@@ -1,0 +1,32 @@
+﻿  mainassignment.cpp
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(25): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(157): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(191): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(303): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(310): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(326): warning C4101: 'b_num': yerel değişken başvurusu kaldırıldı
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(326): warning C4101: 's_num': yerel değişken başvurusu kaldırıldı
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(450): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(460): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(539): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(613): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(616): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(634): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(644): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(653): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(654): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(659): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(660): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(671): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(672): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(677): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(678): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(777): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(813): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(695): warning C4101: 'dir2': yerel değişken başvurusu kaldırıldı
+c:\users\casper\source\repos\librarydemo\librarydemo\mainassignment.cpp(694): warning C4101: 'dir1': yerel değişken başvurusu kaldırıldı
+  librarydemo.vcxproj -> C:\Users\Casper\source\repos\librarydemo\Debug\librarydemo.exe
